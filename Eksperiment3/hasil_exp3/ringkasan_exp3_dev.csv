@@ -1,0 +1,2 @@
+Konfigurasi,d_Lev,T_BM25,N,Hit@1,Hit@3,Hit@5,MRR,Fallback Rate,Diterima,Ditolak,Top1_Benar_Ditolak,Top1_Salah_Ditolak,Hit@1_setelah_fallback,MRR_setelah_fallback,Kueri dinormalisasi,Penggantian kamus,Koreksi Levenshtein,Rasio koreksi (token diperiksa)
+BM25 + Kamus + Levenshtein,3,7.250079614129856,166,0.927710843373494,0.9939759036144579,1.0,0.9580321285140562,0.024096385542168676,162,4,2,2,0.9156626506024096,0.9409638554216867,162,298,209,0.11695579182988249

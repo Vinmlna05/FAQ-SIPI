@@ -1,0 +1,666 @@
+query_id,query_text,gaya_kueri,relevant_doc_id
+Q0001,Bagaimana cara registrasi akun mahasiswa di SiPi?,formal,FAQ001
+Q0002,cara daftar akun sipi gimana,informal,FAQ001
+Q0003,cra bikin akun sipi mahasiswa,typo,FAQ001
+Q0004,langkah-langkah membuat akun baru di sistem SiPi itu seperti apa,parafrase,FAQ001
+Q0005,gmn daftar akun sipi min,singkatan,FAQ001
+Q0006,akun sipi ku belum terverifikasi,informal,FAQ002
+Q0007,"izin ibu, tidak muncul notifikasi email saat registrasi akun SIPI",formal,FAQ002
+Q0008,sudah cek spam tetap tidak ada email verifikasinya,informal,FAQ002
+Q0009,sdh daftar ulang pake email beda ttp tdk ada masuk di spam,singkatan,FAQ002
+Q0010,"email verifikasinya blm masuk dari kemarin, sudah cek inbox & spam",singkatan,FAQ002
+Q0011,knpa akun ku blum terverfikasi ibuu,typo,FAQ002
+Q0012,"sejak registrasi akun SiPi, email verifikasinya tidak pernah masuk padahal sudah daftar ulang berkali-kali",parafrase,FAQ002
+Q0013,saya lupa password dan sudah reset tapi tetap tidak bisa login,formal,FAQ003
+Q0014,"tdk bisa akses sipi, sdh ganti sandi berkali2 ttp ndak bisa login",singkatan,FAQ003
+Q0015,sudah pake fitur lupa password tapi pas login pake password baru tetap gagal,informal,FAQ003
+Q0016,napa stlh reset passwrd tetap gabisa login,typo,FAQ003
+Q0017,"saya salah memasukkan nama kelas di akun SIPI, apakah tidak apa-apa atau harus buat akun baru",informal,FAQ004
+Q0018,"saya salah input prodi di SIPI, apakah bisa diganti? soalnya tidak bisa diedit di profil",formal,FAQ004
+Q0019,"klo salah pilih kelas pas bikin akun, bisa diperbaiki tanpa daftar ulang kah",parafrase,FAQ004
+Q0020,berapa minimal sks yang harus ditempuh sebelum ambil PI,formal,FAQ005
+Q0021,min sks brp buat bisa ambil pi,singkatan,FAQ005
+Q0022,sks minimum buat PI itu berapa ya,informal,FAQ005
+Q0023,"apakah untuk mahasiswa Prodi Teknik Komputer yang sedang melaksanakan PI, mata kuliah PI wajib diprogramkan semester depan atau semester 7",formal,FAQ006
+Q0024,mata kuliah PI diprogramkan pada semester 7 atau bisa lebih awal,parafrase,FAQ006
+Q0025,pi nya diprogramkan semester brp si buat ptik,singkatan,FAQ006
+Q0026,bs diprogram semester 5 kah pi nya,typo,FAQ006
+Q0027,"apa perbedaan Praktik Industri, Magang Mandiri, dan AMSP",formal,FAQ007
+Q0028,pi sama magang mandiri sama amsp itu beda apa bisa pilih bebas,informal,FAQ007
+Q0029,"program PI, MM, AMSP ini wajib pilih salah satu atau bebas",singkatan,FAQ007
+Q0030,semisal kita diterima magang di luar provinsi apakah ada persiapan khusus dan biaya transportasinya ditanggung kampus atau mahasiswa,formal,FAQ008
+Q0031,kalo magang di luar kota biaya transport ditanggung kampus gak,informal,FAQ008
+Q0032,biaya transportasi klo pi diluar provinsi ditanggung sapa,typo,FAQ008
+Q0033,bagaimana cara membuat pengelompokan dan memilih Lokasi PI di SiPi,formal,FAQ009
+Q0034,cara buat kelompok pi gimana di sipi,informal,FAQ009
+Q0035,cra bkin pengelompokan pi,typo,FAQ009
+Q0036,bagaimana cara melakukan verifikasi mandiri anggota kelompok sebelum dikirim ke admin,formal,FAQ010
+Q0037,cara verif mandiri anggota klp gimana,singkatan,FAQ010
+Q0038,teman kelompok ku masih belum join dipengelompokan tapi sudah disetujui oleh admin,informal,FAQ011
+Q0039,"harusnya saya 3 orang ibu, tapi baru 2 orang dan sudah disetujui admin, jadi tidak bisa menambahkan teman saya",formal,FAQ011
+Q0040,"akun tim saya belum di verifikasi, saya tidak bisa menambahkannya sebagai anggota tim",parafrase,FAQ011
+Q0041,"lokasi PI yang saya tuju tidak ada di daftar SiPI, bagaimana cara mengusulkannya",formal,FAQ012
+Q0042,"tempat pi ku ga ada di list sipi, gmn caranya nambahin",informal,FAQ012
+Q0043,klo tmpt pi blm ad d sipi gmn,typo,FAQ012
+Q0044,"perusahaan yang ingin kami tempati belum terdaftar dalam rekomendasi industri untuk PI, apakah kami harus ke kampus untuk mengurus perusahaan tersebut",parafrase,FAQ012
+Q0045,"lokasi PI yang saya pilih sudah penuh, bagaimana cara menggantinya",formal,FAQ013
+Q0046,"tmpt pi ku udh full, mau ganti lokasi gmn caranya",singkatan,FAQ013
+Q0047,"perusahaan yang dituju sudah ada 2 tim yang mengajukan dan sudah batas maksimal, apakah ada solusi agar kami tetap bisa PI disana",formal,FAQ013
+Q0048,lokasi pi sdh trisi ma org lain mau ganti gmn,typo,FAQ013
+Q0049,bagaimana cara mengupdate data Pembimbing Lapangan di SiPi,formal,FAQ014
+Q0050,cra update pmbimbing lapangan di sipi,typo,FAQ014
+Q0051,dokumen apa saja yang perlu didownload sebelum melaksanakan Praktik Industri,formal,FAQ015
+Q0052,sblm pi dokumen apa aja yg hrs didownload,singkatan,FAQ015
+Q0053,"bagaimana cara mengajukan surat pengantar PI Jurusan dan Fakultas, dan apa urutannya",formal,FAQ016
+Q0054,"pengantar PI jurusan sama fakultas urutannya gimana, mana dulu",informal,FAQ016
+Q0055,"surat pengantar untuk magang dan surat observasi apakah berbeda, karena kami mau pergi observasi ke instansinya",parafrase,FAQ016
+Q0056,"apa itu SPK dan IA, dan siapa yang mewajibkan dokumen tersebut dibuat",formal,FAQ017
+Q0057,"bagaimana kalau instansi tidak membutuhkan SPK dan IA, apakah kami tetap wajib membuat SPK dan IA",formal,FAQ017
+Q0058,spk sm ia itu wajib dibuat gak klo instansi ga minta,singkatan,FAQ017
+Q0059,"apabila pihak perusahaan tidak bersedia menandatangani SPK dan IA, dokumen apa yang perlu diunggah sebagai gantinya",formal,FAQ018
+Q0060,"klo perusahaan gamau ttd spk ia, upload apa gantinya",informal,FAQ018
+Q0061,dibagian SPK dan IA bertanda wajib apakah yang diupload adalah file laporan PI juga jadi file yang diupload double,parafrase,FAQ018
+Q0062,"tanggal pelaksanaan PI yang tertera di surat MySams keliru, bagaimana cara merevisinya",formal,FAQ019
+Q0063,"di my syams keliru tanggal nya, cara perbaikinya gimana",informal,FAQ019
+Q0064,"tgl di mysyams slh, gmn revisinya",typo,FAQ019
+Q0065,"nama Kaprodi di dokumen IA masih menggunakan nama lama padahal sudah ada pergantian, apakah perlu disesuaikan",formal,FAQ020
+Q0066,"berkas dari sipi masih menggunakan nama kaprodi yang lama, bagaimana solusinya",parafrase,FAQ020
+Q0067,nomor surat SPK dan IA didapatkan dari mana,formal,FAQ021
+Q0068,sdh upload berkas spk ia tp blm dikasih nomor surat dr kampus,singkatan,FAQ021
+Q0069,"jika industri tidak meminta surat penarikan, apakah kami tetap wajib membuat surat tersebut",formal,FAQ022
+Q0070,klo prusahaan gak minta surat penarikan brarti kita gak wajib buat kan,informal,FAQ022
+Q0071,surat penarikan yang dikirim ke MySams itu masuk ke pilihan layanan apa,formal,FAQ023
+Q0072,surat penarikan di my sams pilih layanan yg mn,singkatan,FAQ023
+Q0073,bagaimana cara mengisi logbook kegiatan harian selama pelaksanaan PI,formal,FAQ024
+Q0074,cara isi logbook pi gimana,informal,FAQ024
+Q0075,cra ngisi lgbook harian pi,typo,FAQ024
+Q0076,"dosen pembimbing tidak bisa hadir untuk penarikan, bagaimana solusinya apakah bisa diwakilkan dosen lain",formal,FAQ025
+Q0077,di tempat magang kami mengharuskan hadir dosen pembimbing saat penarikan tetapi dosen pembimbing tidak dapat hadir,parafrase,FAQ025
+Q0078,"dospem gabisa dtg pas penarikan, gmn solusinya",singkatan,FAQ025
+Q0079,"dosen pembimbing saya sudah memegang banyak kelompok bimbingan, bagaimana cara mencari pembimbing pengganti",formal,FAQ026
+Q0080,"sudah ada 4 kelompok yang beliau pegang, saya diarahkan untuk komunikasi dengan PJ PI untuk cari pembimbing lain",parafrase,FAQ026
+Q0081,bagaimana cara melakukan pengajuan Selesai PI di SiPi,formal,FAQ027
+Q0082,cara pengajuan selesai pi gimana di sipi,informal,FAQ027
+Q0083,upload bukti selesai PI ini per individu atau perwakilan saja,parafrase,FAQ027
+Q0084,berapa lama batas waktu pelaksanaan seminar PI setelah hari penarikan,formal,FAQ028
+Q0085,seminar pi paling lambat kpn stlh penarikan,singkatan,FAQ028
+Q0086,"Pelaksanaan Seminar PI tidak boleh lewat berapa lama sejak hari penarikan, kalau lewat gimana",parafrase,FAQ028
+Q0087,dokumen apa saja yang perlu disiapkan sebelum pelaksanaan seminar PI,formal,FAQ029
+Q0088,sblm seminar pi dokumen apa aja yg perlu disiapin,singkatan,FAQ029
+Q0089,pendaftaran seminar PI di MySams dilakukan perwakilan kelompok atau per individu,formal,FAQ030
+Q0090,daftar seminar pi di mysams perwakilan ato individu bu,singkatan,FAQ030
+Q0091,"format Lembar Pengesahan Seminar pada BAB IV panduan berbeda dengan contoh di Lampiran 3, format mana yang diikuti",formal,FAQ031
+Q0092,kapan lembar pengesahan pada laporan PI seharusnya ditandatangani,formal,FAQ032
+Q0093,"lembar pengesahan di laporan ditandatangani kapan, pas laporan masih disusun bisa gak",informal,FAQ032
+Q0094,dokumen apa saja yang wajib diupload setelah pelaksanaan seminar PI,formal,FAQ033
+Q0095,"stlh seminar pi, dokumen apa aja yg wajib diupload biar status aman",singkatan,FAQ033
+Q0096,tugas sesudah seminar PI itu sampai upload dokumen apa saja ya,parafrase,FAQ033
+Q0097,nilai PI yang diupload itu nilai dari tempat PI atau nilai sesudah seminar,formal,FAQ034
+Q0098,nilai yg diupload nilai sblm apa sesudah seminar,singkatan,FAQ034
+Q0099,bagaimana cara melakukan pengajuan Laporan dan Upload Nilai mahasiswa di SiPi,formal,FAQ035
+Q0100,cara upload laporan sm nilai di sipi gmn,informal,FAQ035
+Q0101,berapa batas ukuran maksimal file yang bisa diupload di SiPi,formal,FAQ036
+Q0102,max ukuran file upload sipi brp mb,singkatan,FAQ036
+Q0103,"status laporan PI saya sudah lama diupload tapi belum diverifikasi, apakah perlu tindakan atau cukup menunggu",formal,FAQ037
+Q0104,"sdh seminggu lbh upload laporan blm diverif, prlu nunggu aj kah",singkatan,FAQ037
+Q0105,"beberapa kelompok lain sudah mendapatkan verifikasi, apakah ada kendala pada laporan kami atau memang masih dalam proses menunggu",parafrase,FAQ037
+Q0106,upload dokumen bukti selesai PI dan laporan dilakukan per individu atau cukup perwakilan kelompok,formal,FAQ038
+Q0107,upload nilai pi perwakilan ato per org bu,singkatan,FAQ038
+Q0108,"jika mahasiswa menghasilkan karya atau produk selama PI yang berpotensi didaftarkan HKI, apa yang perlu dilakukan",formal,FAQ039
+Q0109,"klo hasil pi kita bisa didaftarin hki, gmn prosesnya",informal,FAQ039
+Q0110,apa saja tugas admin dalam verifikasi di SiPi mulai dari pembekalan sampai nilai akhir,formal,FAQ040
+Q0111,gmn cra registrasi akun mahasiswa di SiPi?,singkatan,FAQ001
+Q0112,"mhn info, gmn cra registrasi akun mahasiswa di SiPi?",singkatan,FAQ001
+Q0113,"misi, gmn cra registrasi akun mahasiswa di SiPi?",singkatan,FAQ001
+Q0114,gimana cara registrasi akun mahasiswa di SiPi,informal,FAQ001
+Q0115,"kak, gimana cara registrasi akun mahasiswa di SiPi",informal,FAQ001
+Q0116,"ibu, gimana cara registrasi akun mahasiswa di SiPi",informal,FAQ001
+Q0117,Bagamana cara registrasi akun mahasiswa di SiPi,typo,FAQ001
+Q0118,Bagaimana cara registarsi akun mahasiswa di SiPi,typo,FAQ001
+Q0119,Bagaimana cara registrasi akun mahasiwa di SiPi,typo,FAQ001
+Q0120,Seperti apa langkah registrasi akun mahasiswa di SiPi?,parafrase,FAQ001
+Q0121,"Mohon info, seperti apa langkah registrasi akun mahasiswa di SiPi?",parafrase,FAQ001
+Q0122,"Izin bertanya, seperti apa langkah registrasi akun mahasiswa di SiPi?",parafrase,FAQ001
+Q0123,Bagaimana prosedur registrasi akun mahasiswa di SiPi?,formal,FAQ001
+Q0124,"izin ibu, tdk muncul notifikasi email saat registrasi akun SIPI",singkatan,FAQ002
+Q0125,"mhn info, izin ibu, tdk muncul notifikasi email saat registrasi akun SIPI",singkatan,FAQ002
+Q0126,"izin ibu, gak muncul notifikasi email saat registrasi akun SIPI",informal,FAQ002
+Q0127,"kak, izin ibu, gak muncul notifikasi email saat registrasi akun SIPI",informal,FAQ002
+Q0128,"izin ibu, tiak muncul notifikasi emil saat registrasi akun SIPI",typo,FAQ002
+Q0129,"izin ibu, tidak munclu notifikasi email saat registarsi akun SIPI",typo,FAQ002
+Q0130,"izin ibu, tidak muncul notifiksi email saat registrasi akun SIPI",typo,FAQ002
+Q0131,"Mohon info, izin ibu, tidak muncul notifikasi email saat registrasi akun SIPI",parafrase,FAQ002
+Q0132,"Izin bertanya, izin ibu, tidak muncul notifikasi email saat registrasi akun SIPI",parafrase,FAQ002
+Q0133,"Mohon dijelaskan, izin ibu, tidak muncul notifikasi email saat registrasi akun SIPI",formal,FAQ002
+Q0134,saya lupa password dan sdh reset tapi ttp tdk bs login,singkatan,FAQ003
+Q0135,"mhn info, saya lupa password dan sdh reset tapi ttp tdk bs login",singkatan,FAQ003
+Q0136,"misi, saya lupa password dan sdh reset tapi ttp tdk bs login",singkatan,FAQ003
+Q0137,aku lupa password dan udah reset tapi tetap gak bisa login,informal,FAQ003
+Q0138,"kak, aku lupa password dan udah reset tapi tetap gak bisa login",informal,FAQ003
+Q0139,"ibu, aku lupa password dan udah reset tapi tetap gak bisa login",informal,FAQ003
+Q0140,saya lupa passord dan sudah reset tapi teap tidak bisa login,typo,FAQ003
+Q0141,saya lupa password dan sudha reset tapi tetap tidka bisa login,typo,FAQ003
+Q0142,saya lupa password dan sudah eset tapi tetap tidak bisa ogin,typo,FAQ003
+Q0143,"Mohon info, saya lupa password dan sudah reset tapi tetap tidak bisa login",parafrase,FAQ003
+Q0144,"Izin bertanya, saya lupa password dan sudah reset tapi tetap tidak bisa login",parafrase,FAQ003
+Q0145,"Kalau boleh tahu, saya lupa password dan sudah reset tapi tetap tidak bisa login",parafrase,FAQ003
+Q0146,"Mohon dijelaskan, saya lupa password dan sudah reset tapi tetap tidak bisa login",formal,FAQ003
+Q0147,"saya salah input prodi di SIPI, apa bs diganti? soalnya tdk bs diedit di profil",singkatan,FAQ004
+Q0148,"mhn info, saya salah input prodi di SIPI, apa bs diganti? soalnya tdk bs diedit di profil",singkatan,FAQ004
+Q0149,"misi, saya salah input prodi di SIPI, apa bs diganti? soalnya tdk bs diedit di profil",singkatan,FAQ004
+Q0150,"saya salah memasukkan nama kelas di akun SIPI, apa tdk apa-apa atau hrs buat akun baru",singkatan,FAQ004
+Q0151,"aku salah input prodi di SIPI, apa bisa diganti? soalnya gak bisa diedit di profil",informal,FAQ004
+Q0152,"kak, aku salah input prodi di SIPI, apa bisa diganti? soalnya gak bisa diedit di profil",informal,FAQ004
+Q0153,"ibu, aku salah input prodi di SIPI, apa bisa diganti? soalnya gak bisa diedit di profil",informal,FAQ004
+Q0154,"saya saah input prodi di SIPI, apaah bisa diganti? soalnya tiak bisa diedit di profil",typo,FAQ004
+Q0155,"saya salah inptu prodi di SIPI, apakah bisa digatni? soalnya tidak bisa diedti di profil",typo,FAQ004
+Q0156,"saya salah input rodi di SIPI, apakah bisa diganti? soalna tidak bisa diedit di rofil",typo,FAQ004
+Q0157,"saya slaah input prodi di SIPI, aapkah bisa diganti? soalnya tdiak bisa diedit di profil",typo,FAQ004
+Q0158,"Mohon info, saya salah input prodi di SIPI, apakah bisa diganti? soalnya tidak bisa diedit di profil",parafrase,FAQ004
+Q0159,"Izin bertanya, saya salah input prodi di SIPI, apakah bisa diganti? soalnya tidak bisa diedit di profil",parafrase,FAQ004
+Q0160,"saya salah input prodi di SIPI, apa benar bisa diganti? soalnya tidak bisa diedit di profil",formal,FAQ004
+Q0161,brp min sks yg hrs ditempuh sblm ambil PI,singkatan,FAQ005
+Q0162,"mhn info, brp min sks yg hrs ditempuh sblm ambil PI",singkatan,FAQ005
+Q0163,"misi, brp min sks yg hrs ditempuh sblm ambil PI",singkatan,FAQ005
+Q0164,berapa minimal sks yang mesti ditempuh sebelum ambil PI,informal,FAQ005
+Q0165,"kak, berapa minimal sks yang mesti ditempuh sebelum ambil PI",informal,FAQ005
+Q0166,"ibu, berapa minimal sks yang mesti ditempuh sebelum ambil PI",informal,FAQ005
+Q0167,berpa minimal sks yang harus ditepuh sebelum ambil PI,typo,FAQ005
+Q0168,berapa miniaml sks yang harus ditempuh sebeulm ambil PI,typo,FAQ005
+Q0169,berapa minimal sks yang arus ditempuh sebelum mbil PI,typo,FAQ005
+Q0170,breapa minimal sks yang harus idtempuh sebelum ambil PI,typo,FAQ005
+Q0171,Kira-kira berapa minimal sks yang harus ditempuh sebelum ambil PI,parafrase,FAQ005
+Q0172,"Mohon info, kira-kira berapa minimal sks yang harus ditempuh sebelum ambil PI",parafrase,FAQ005
+Q0173,"Izin bertanya, kira-kira berapa minimal sks yang harus ditempuh sebelum ambil PI",parafrase,FAQ005
+Q0174,"Kalau boleh tahu, kira-kira berapa minimal sks yang harus ditempuh sebelum ambil PI",parafrase,FAQ005
+Q0175,"Mohon dijelaskan, berapa minimal sks yang harus ditempuh sebelum ambil PI",formal,FAQ005
+Q0176,"apa utk mahasiswa Prodi Teknik Komputer yg sedang melaksanakan PI, mata kuliah PI wajib diprogramkan semester depan atau semester 7",singkatan,FAQ006
+Q0177,"mhn info, apa utk mahasiswa Prodi Teknik Komputer yg sedang melaksanakan PI, mata kuliah PI wajib diprogramkan semester depan atau semester 7",singkatan,FAQ006
+Q0178,"misi, apa utk mahasiswa Prodi Teknik Komputer yg sedang melaksanakan PI, mata kuliah PI wajib diprogramkan semester depan atau semester 7",singkatan,FAQ006
+Q0179,"apa untuk mahasiswa Prodi Teknik Komputer yang sedang melaksanakan PI, mata kuliah PI wajib diprogramkan semester depan atau semester 7",informal,FAQ006
+Q0180,"kak, apa untuk mahasiswa Prodi Teknik Komputer yang sedang melaksanakan PI, mata kuliah PI wajib diprogramkan semester depan atau semester 7",informal,FAQ006
+Q0181,"ibu, apa untuk mahasiswa Prodi Teknik Komputer yang sedang melaksanakan PI, mata kuliah PI wajib diprogramkan semester depan atau semester 7",informal,FAQ006
+Q0182,"mau tanya, apa untuk mahasiswa Prodi Teknik Komputer yang sedang melaksanakan PI, mata kuliah PI wajib diprogramkan semester depan atau semester 7",informal,FAQ006
+Q0183,"apaah untuk mahasiswa Prdi Teknik Komputer yang sedng melaksanakan PI, mata kuliah PI waib diprogramkan semester dean atau semester 7",typo,FAQ006
+Q0184,"apakah untku mahasiswa Prodi Teknki Komputer yang sedang melaksaankan PI, mata kuliah PI wajib diprogrmakan semester depan atau semesetr 7",typo,FAQ006
+Q0185,"apakah untuk mahasiwa Prodi Teknik Komputr yang sedang melaksanakan PI, mata uliah PI wajib diprogramkan semestr depan atau semester 7",typo,FAQ006
+Q0186,"Apa benar untuk mahasiswa Prodi Teknik Komputer yang sedang melaksanakan PI, mata kuliah PI wajib diprogramkan semester depan atau semester 7",parafrase,FAQ006
+Q0187,"Mohon info, apa benar untuk mahasiswa Prodi Teknik Komputer yang sedang melaksanakan PI, mata kuliah PI wajib diprogramkan semester depan atau semester 7",parafrase,FAQ006
+Q0188,"Izin bertanya, apa benar untuk mahasiswa Prodi Teknik Komputer yang sedang melaksanakan PI, mata kuliah PI wajib diprogramkan semester depan atau semester 7",parafrase,FAQ006
+Q0189,"apa perbedaan pi, Magang Mandiri, dan AMSP",singkatan,FAQ007
+Q0190,"mhn info, apa perbedaan pi, Magang Mandiri, dan AMSP",singkatan,FAQ007
+Q0191,"misi, apa perbedaan pi, Magang Mandiri, dan AMSP",singkatan,FAQ007
+Q0192,"kak, apa perbedaan Praktik Industri, Magang Mandiri, dan AMSP",informal,FAQ007
+Q0193,"ibu, apa perbedaan Praktik Industri, Magang Mandiri, dan AMSP",informal,FAQ007
+Q0194,"apa perbdaan Praktik Industri, Magng Mandiri, dan AMSP",typo,FAQ007
+Q0195,"apa perbedaan Prakitk Industri, Magang Mandrii, dan AMSP",typo,FAQ007
+Q0196,"apa perbedaan Praktik Industi, Magang Mandiri, dan AMSP",typo,FAQ007
+Q0197,"apa perbedana Praktik Industri, Mgaang Mandiri, dan AMSP",typo,FAQ007
+Q0198,"Mohon info, apa perbedaan Praktik Industri, Magang Mandiri, dan AMSP",parafrase,FAQ007
+Q0199,"Izin bertanya, apa perbedaan Praktik Industri, Magang Mandiri, dan AMSP",parafrase,FAQ007
+Q0200,"Kalau boleh tahu, apa perbedaan Praktik Industri, Magang Mandiri, dan AMSP",parafrase,FAQ007
+Q0201,"Mohon dijelaskan, apa perbedaan Praktik Industri, Magang Mandiri, dan AMSP",formal,FAQ007
+Q0202,semisal kita diterima magang di luar provinsi apa ada persiapan khusus dan biaya transportasinya ditanggung kampus atau mahasiswa,singkatan,FAQ008
+Q0203,"mhn info, semisal kita diterima magang di luar provinsi apa ada persiapan khusus dan biaya transportasinya ditanggung kampus atau mahasiswa",singkatan,FAQ008
+Q0204,"misi, semisal kita diterima magang di luar provinsi apa ada persiapan khusus dan biaya transportasinya ditanggung kampus atau mahasiswa",singkatan,FAQ008
+Q0205,"kak, semisal kita diterima magang di luar provinsi apa ada persiapan khusus dan biaya transportasinya ditanggung kampus atau mahasiswa",informal,FAQ008
+Q0206,"ibu, semisal kita diterima magang di luar provinsi apa ada persiapan khusus dan biaya transportasinya ditanggung kampus atau mahasiswa",informal,FAQ008
+Q0207,semsal kita diterima magang di luar provnsi apakah ada persiapan khuus dan biaya transportasinya ditangung kampus atau mahasiswa,typo,FAQ008
+Q0208,semisal kita ditermia magang di luar provinsi apakha ada persiapan khusus dan biaay transportasinya ditanggung kampsu atau mahasiswa,typo,FAQ008
+Q0209,semisal kita diterima agang di luar provinsi apakah ada persiaan khusus dan biaya transportsinya ditanggung kampus atau mahasiwa,typo,FAQ008
+Q0210,"Mohon info, semisal kita diterima magang di luar provinsi apakah ada persiapan khusus dan biaya transportasinya ditanggung kampus atau mahasiswa",parafrase,FAQ008
+Q0211,"Izin bertanya, semisal kita diterima magang di luar provinsi apakah ada persiapan khusus dan biaya transportasinya ditanggung kampus atau mahasiswa",parafrase,FAQ008
+Q0212,"Kalau boleh tahu, semisal kita diterima magang di luar provinsi apakah ada persiapan khusus dan biaya transportasinya ditanggung kampus atau mahasiswa",parafrase,FAQ008
+Q0213,semisal kita diterima magang di luar provinsi apa benar ada persiapan khusus dan biaya transportasinya ditanggung kampus atau mahasiswa,formal,FAQ008
+Q0214,gmn cra membuat pengelompokan dan memilih Lokasi PI di SiPi,singkatan,FAQ009
+Q0215,"mhn info, gmn cra membuat pengelompokan dan memilih Lokasi PI di SiPi",singkatan,FAQ009
+Q0216,"misi, gmn cra membuat pengelompokan dan memilih Lokasi PI di SiPi",singkatan,FAQ009
+Q0217,gimana cara membuat pengelompokan dan memilih Lokasi PI di SiPi,informal,FAQ009
+Q0218,"kak, gimana cara membuat pengelompokan dan memilih Lokasi PI di SiPi",informal,FAQ009
+Q0219,"ibu, gimana cara membuat pengelompokan dan memilih Lokasi PI di SiPi",informal,FAQ009
+Q0220,bagamana cara membuat pengelompokan dan memlih Lokasi PI di SiPi,typo,FAQ009
+Q0221,bagaimana cara membaut pengelompokan dan memilih Lokais PI di SiPi,typo,FAQ009
+Q0222,bagaimana cara membuat pengelomokan dan memilih Lokasi PI di SiPi,typo,FAQ009
+Q0223,Seperti apa langkah membuat pengelompokan dan memilih Lokasi PI di SiPi,parafrase,FAQ009
+Q0224,"Mohon info, seperti apa langkah membuat pengelompokan dan memilih Lokasi PI di SiPi",parafrase,FAQ009
+Q0225,"Izin bertanya, seperti apa langkah membuat pengelompokan dan memilih Lokasi PI di SiPi",parafrase,FAQ009
+Q0226,"Kalau boleh tahu, seperti apa langkah membuat pengelompokan dan memilih Lokasi PI di SiPi",parafrase,FAQ009
+Q0227,bagaimana prosedur membuat pengelompokan dan memilih Lokasi PI di SiPi,formal,FAQ009
+Q0228,gmn cra melakukan verif mandiri anggota klp sblm dikirim ke admin,singkatan,FAQ010
+Q0229,"mhn info, gmn cra melakukan verif mandiri anggota klp sblm dikirim ke admin",singkatan,FAQ010
+Q0230,"misi, gmn cra melakukan verif mandiri anggota klp sblm dikirim ke admin",singkatan,FAQ010
+Q0231,gimana cara melakukan verifikasi mandiri anggota kelompok sebelum dikirim ke admin,informal,FAQ010
+Q0232,"kak, gimana cara melakukan verifikasi mandiri anggota kelompok sebelum dikirim ke admin",informal,FAQ010
+Q0233,"ibu, gimana cara melakukan verifikasi mandiri anggota kelompok sebelum dikirim ke admin",informal,FAQ010
+Q0234,"mau tanya, gimana cara melakukan verifikasi mandiri anggota kelompok sebelum dikirim ke admin",informal,FAQ010
+Q0235,bagamana cara melakukan verifikasi maniri anggota kelompok seblum dikirim ke admin,typo,FAQ010
+Q0236,bagaimana cara melakkuan verifikasi mandiri anggtoa kelompok sebelum dikiirm ke admin,typo,FAQ010
+Q0237,bagaimana cara melakukan verifiksi mandiri anggota kelompk sebelum dikirim ke dmin,typo,FAQ010
+Q0238,bagaimaan cara melakukan verifikasi amndiri anggota kelompok esbelum dikirim ke admin,typo,FAQ010
+Q0239,Seperti apa langkah melakukan verifikasi mandiri anggota kelompok sebelum dikirim ke admin,parafrase,FAQ010
+Q0240,"Mohon info, seperti apa langkah melakukan verifikasi mandiri anggota kelompok sebelum dikirim ke admin",parafrase,FAQ010
+Q0241,"Izin bertanya, seperti apa langkah melakukan verifikasi mandiri anggota kelompok sebelum dikirim ke admin",parafrase,FAQ010
+Q0242,"Kalau boleh tahu, seperti apa langkah melakukan verifikasi mandiri anggota kelompok sebelum dikirim ke admin",parafrase,FAQ010
+Q0243,bagaimana prosedur melakukan verifikasi mandiri anggota kelompok sebelum dikirim ke admin,formal,FAQ010
+Q0244,"harusnya saya 3 org ibu, tapi baru 2 org dan sdh disetujui admin, jadi tdk bs menambahkan teman saya",singkatan,FAQ011
+Q0245,"mhn info, harusnya saya 3 org ibu, tapi baru 2 org dan sdh disetujui admin, jadi tdk bs menambahkan teman saya",singkatan,FAQ011
+Q0246,"misi, harusnya saya 3 org ibu, tapi baru 2 org dan sdh disetujui admin, jadi tdk bs menambahkan teman saya",singkatan,FAQ011
+Q0247,teman klp ku masih blm join dipengelompokan tapi sdh disetujui oleh admin,singkatan,FAQ011
+Q0248,"harusnya aku 3 orang ibu, tapi baru 2 orang dan udah disetujui admin, jadi gak bisa menambahkan teman aku",informal,FAQ011
+Q0249,"kak, harusnya aku 3 orang ibu, tapi baru 2 orang dan udah disetujui admin, jadi gak bisa menambahkan teman aku",informal,FAQ011
+Q0250,"ibu, harusnya aku 3 orang ibu, tapi baru 2 orang dan udah disetujui admin, jadi gak bisa menambahkan teman aku",informal,FAQ011
+Q0251,"harunya saya 3 orang ibu, tapi baru 2 orang dan suah disetujui admin, jadi tiak bisa menambahkan teman saya",typo,FAQ011
+Q0252,"harusnya saya 3 oragn ibu, tapi baru 2 orang dan sudah disetjuui admin, jadi tidak bisa menambhakan teman saya",typo,FAQ011
+Q0253,"harusnya saya 3 orang ibu, tapi baru 2 rang dan sudah disetujui dmin, jadi tidak bisa menambahkan eman saya",typo,FAQ011
+Q0254,"ahrusnya saya 3 orang ibu, tapi baru 2 orang dan sduah disetujui admin, jadi tdiak bisa menambahkan teman saya",typo,FAQ011
+Q0255,"Mohon info, harusnya saya 3 orang ibu, tapi baru 2 orang dan sudah disetujui admin, jadi tidak bisa menambahkan teman saya",parafrase,FAQ011
+Q0256,"Izin bertanya, harusnya saya 3 orang ibu, tapi baru 2 orang dan sudah disetujui admin, jadi tidak bisa menambahkan teman saya",parafrase,FAQ011
+Q0257,"Mohon dijelaskan, harusnya saya 3 orang ibu, tapi baru 2 orang dan sudah disetujui admin, jadi tidak bisa menambahkan teman saya",formal,FAQ011
+Q0258,"lokasi PI yg saya tuju tdk ada di daftar SiPI, gmn cra mengusulkannya",singkatan,FAQ012
+Q0259,"mhn info, lokasi PI yg saya tuju tdk ada di daftar SiPI, gmn cra mengusulkannya",singkatan,FAQ012
+Q0260,"misi, lokasi PI yg saya tuju tdk ada di daftar SiPI, gmn cra mengusulkannya",singkatan,FAQ012
+Q0261,"lokasi PI yang aku tuju gak ada di daftar SiPI, gimana cara mengusulkannya",informal,FAQ012
+Q0262,"kak, lokasi PI yang aku tuju gak ada di daftar SiPI, gimana cara mengusulkannya",informal,FAQ012
+Q0263,"ibu, lokasi PI yang aku tuju gak ada di daftar SiPI, gimana cara mengusulkannya",informal,FAQ012
+Q0264,"loksi PI yang saya tuju tidak ada di daftar SiPI, bagamana cara mengusulkannya",typo,FAQ012
+Q0265,"lokasi PI yang saya tuju tidka ada di daftar SiPI, bagaimana cara mengusulaknnya",typo,FAQ012
+Q0266,"lokasi PI yang saya tuju tidak ada di aftar SiPI, bagaimana cara mengusulkannya",typo,FAQ012
+Q0267,"lokasi PI yang saya tuju tidak ada di daftar SiPI, lewat mana caranya mengusulkannya",parafrase,FAQ012
+Q0268,"Mohon info, lokasi PI yang saya tuju tidak ada di daftar SiPI, lewat mana caranya mengusulkannya",parafrase,FAQ012
+Q0269,"Izin bertanya, lokasi PI yang saya tuju tidak ada di daftar SiPI, lewat mana caranya mengusulkannya",parafrase,FAQ012
+Q0270,"lokasi PI yang saya tuju tidak ada di daftar SiPI, bagaimana prosedur mengusulkannya",formal,FAQ012
+Q0271,"lokasi PI yg saya pilih sdh penuh, gmn cra menggantinya",singkatan,FAQ013
+Q0272,"mhn info, lokasi PI yg saya pilih sdh penuh, gmn cra menggantinya",singkatan,FAQ013
+Q0273,"misi, lokasi PI yg saya pilih sdh penuh, gmn cra menggantinya",singkatan,FAQ013
+Q0274,"lokasi PI yang aku pilih udah penuh, gimana cara menggantinya",informal,FAQ013
+Q0275,"kak, lokasi PI yang aku pilih udah penuh, gimana cara menggantinya",informal,FAQ013
+Q0276,"ibu, lokasi PI yang aku pilih udah penuh, gimana cara menggantinya",informal,FAQ013
+Q0277,"mau tanya, lokasi PI yang aku pilih udah penuh, gimana cara menggantinya",informal,FAQ013
+Q0278,"loksi PI yang saya pilih sudah peuh, bagaimana cara menggantinya",typo,FAQ013
+Q0279,"lokasi PI yang saya pilhi sudah penuh, bagaiamna cara menggantinya",typo,FAQ013
+Q0280,"lokasi PI yang saya pilih udah penuh, bagaimana cara menggantnya",typo,FAQ013
+Q0281,"lokasi PI yang saya pilih sudah penuh, lewat mana caranya menggantinya",parafrase,FAQ013
+Q0282,"Mohon info, lokasi PI yang saya pilih sudah penuh, lewat mana caranya menggantinya",parafrase,FAQ013
+Q0283,"Izin bertanya, lokasi PI yang saya pilih sudah penuh, lewat mana caranya menggantinya",parafrase,FAQ013
+Q0284,"Kalau boleh tahu, lokasi PI yang saya pilih sudah penuh, lewat mana caranya menggantinya",parafrase,FAQ013
+Q0285,gmn cra mengupdate data Pembimbing Lapangan di SiPi,singkatan,FAQ014
+Q0286,"mhn info, gmn cra mengupdate data Pembimbing Lapangan di SiPi",singkatan,FAQ014
+Q0287,"misi, gmn cra mengupdate data Pembimbing Lapangan di SiPi",singkatan,FAQ014
+Q0288,gimana cara mengupdate data Pembimbing Lapangan di SiPi,informal,FAQ014
+Q0289,"kak, gimana cara mengupdate data Pembimbing Lapangan di SiPi",informal,FAQ014
+Q0290,"ibu, gimana cara mengupdate data Pembimbing Lapangan di SiPi",informal,FAQ014
+Q0291,"mau tanya, gimana cara mengupdate data Pembimbing Lapangan di SiPi",informal,FAQ014
+Q0292,bagamana cara mengupdate data Pembimbing Lapagan di SiPi,typo,FAQ014
+Q0293,bagaimana cara mengupadte data Pembimbing Lapangan di SiPi,typo,FAQ014
+Q0294,bagaimana cara mengupdate data Pembimbng Lapangan di SiPi,typo,FAQ014
+Q0295,Seperti apa langkah mengupdate data Pembimbing Lapangan di SiPi,parafrase,FAQ014
+Q0296,"Mohon info, seperti apa langkah mengupdate data Pembimbing Lapangan di SiPi",parafrase,FAQ014
+Q0297,"Izin bertanya, seperti apa langkah mengupdate data Pembimbing Lapangan di SiPi",parafrase,FAQ014
+Q0298,"Kalau boleh tahu, seperti apa langkah mengupdate data Pembimbing Lapangan di SiPi",parafrase,FAQ014
+Q0299,bagaimana prosedur mengupdate data Pembimbing Lapangan di SiPi,formal,FAQ014
+Q0300,dokumen apa saja yg prlu didownload sblm melaksanakan pi,singkatan,FAQ015
+Q0301,"mhn info, dokumen apa saja yg prlu didownload sblm melaksanakan pi",singkatan,FAQ015
+Q0302,"misi, dokumen apa saja yg prlu didownload sblm melaksanakan pi",singkatan,FAQ015
+Q0303,"kak, dokumen apa saja yang perlu didownload sebelum melaksanakan Praktik Industri",informal,FAQ015
+Q0304,"ibu, dokumen apa saja yang perlu didownload sebelum melaksanakan Praktik Industri",informal,FAQ015
+Q0305,"mau tanya, dokumen apa saja yang perlu didownload sebelum melaksanakan Praktik Industri",informal,FAQ015
+Q0306,dokmen apa saja yang perlu didownload seblum melaksanakan Praktik Indutri,typo,FAQ015
+Q0307,dokumen apa saja yang perul didownload sebelum melaksaankan Praktik Industri,typo,FAQ015
+Q0308,dokumen apa saja yang perlu didownlad sebelum melaksanakan Praktk Industri,typo,FAQ015
+Q0309,odkumen apa saja yang perlu didownload esbelum melaksanakan Praktik nIdustri,typo,FAQ015
+Q0310,"Mohon info, dokumen apa saja yang perlu didownload sebelum melaksanakan Praktik Industri",parafrase,FAQ015
+Q0311,"Izin bertanya, dokumen apa saja yang perlu didownload sebelum melaksanakan Praktik Industri",parafrase,FAQ015
+Q0312,"Kalau boleh tahu, dokumen apa saja yang perlu didownload sebelum melaksanakan Praktik Industri",parafrase,FAQ015
+Q0313,"Mohon dijelaskan, dokumen apa saja yang perlu didownload sebelum melaksanakan Praktik Industri",formal,FAQ015
+Q0314,"gmn cra mengajukan surat pengantar PI Jurusan dan Fakultas, dan apa urutannya",singkatan,FAQ016
+Q0315,"mhn info, gmn cra mengajukan surat pengantar PI Jurusan dan Fakultas, dan apa urutannya",singkatan,FAQ016
+Q0316,"misi, gmn cra mengajukan surat pengantar PI Jurusan dan Fakultas, dan apa urutannya",singkatan,FAQ016
+Q0317,"gimana cara mengajukan surat pengantar PI Jurusan dan Fakultas, dan apa urutannya",informal,FAQ016
+Q0318,"kak, gimana cara mengajukan surat pengantar PI Jurusan dan Fakultas, dan apa urutannya",informal,FAQ016
+Q0319,"ibu, gimana cara mengajukan surat pengantar PI Jurusan dan Fakultas, dan apa urutannya",informal,FAQ016
+Q0320,"bagamana cara mengajukan surat pengntar PI Jurusan dan Fakultas, dan apa urutnnya",typo,FAQ016
+Q0321,"bagaimana cara mengajkuan surat pengantar PI Juruasn dan Fakultas, dan apa urutannya",typo,FAQ016
+Q0322,"bagaimana cara mengajukan urat pengantar PI Jurusan dan Fakults, dan apa urutannya",typo,FAQ016
+Q0323,"bagaimaan cara mengajukan surat pengantra PI Jurusan dan Fakultas, dan apa urutannay",typo,FAQ016
+Q0324,"Seperti apa langkah mengajukan surat pengantar PI Jurusan dan Fakultas, dan apa urutannya",parafrase,FAQ016
+Q0325,"Mohon info, seperti apa langkah mengajukan surat pengantar PI Jurusan dan Fakultas, dan apa urutannya",parafrase,FAQ016
+Q0326,"Izin bertanya, seperti apa langkah mengajukan surat pengantar PI Jurusan dan Fakultas, dan apa urutannya",parafrase,FAQ016
+Q0327,"bagaimana prosedur mengajukan surat pengantar PI Jurusan dan Fakultas, dan apa urutannya",formal,FAQ016
+Q0328,"apa itu SPK dan IA, dan sapa yg mewajibkan dokumen tersebut dibuat",singkatan,FAQ017
+Q0329,"mhn info, apa itu SPK dan IA, dan sapa yg mewajibkan dokumen tersebut dibuat",singkatan,FAQ017
+Q0330,"misi, apa itu SPK dan IA, dan sapa yg mewajibkan dokumen tersebut dibuat",singkatan,FAQ017
+Q0331,"apa itu SPK dan IA, dan siapa yang mewajibkan dokumen itu dibuat",informal,FAQ017
+Q0332,"kak, apa itu SPK dan IA, dan siapa yang mewajibkan dokumen itu dibuat",informal,FAQ017
+Q0333,"ibu, apa itu SPK dan IA, dan siapa yang mewajibkan dokumen itu dibuat",informal,FAQ017
+Q0334,"mau tanya, apa itu SPK dan IA, dan siapa yang mewajibkan dokumen itu dibuat",informal,FAQ017
+Q0335,"apa itu SPK dan IA, dan sipa yang mewajibkan dokumen tersbut dibuat",typo,FAQ017
+Q0336,"apa itu SPK dan IA, dan siapa yang mewajikban dokumen tersebut dibuta",typo,FAQ017
+Q0337,"apa itu SPK dan IA, dan siapa yang mewajibkan dokumn tersebut dibuat",typo,FAQ017
+Q0338,"apa itu SPK dan IA, dan saipa yang mewajibkan dokumen etrsebut dibuat",typo,FAQ017
+Q0339,"Apa yang dimaksud dengan SPK dan IA, dan siapa yang mewajibkan dokumen tersebut dibuat",parafrase,FAQ017
+Q0340,"Mohon info, apa yang dimaksud dengan SPK dan IA, dan siapa yang mewajibkan dokumen tersebut dibuat",parafrase,FAQ017
+Q0341,"Izin bertanya, apa yang dimaksud dengan SPK dan IA, dan siapa yang mewajibkan dokumen tersebut dibuat",parafrase,FAQ017
+Q0342,"Kalau boleh tahu, apa yang dimaksud dengan SPK dan IA, dan siapa yang mewajibkan dokumen tersebut dibuat",parafrase,FAQ017
+Q0343,"apabila pihak perusahaan tdk bersedia menandatangani SPK dan IA, dokumen apa yg prlu diunggah sebagai gantinya",singkatan,FAQ018
+Q0344,"mhn info, apabila pihak perusahaan tdk bersedia menandatangani SPK dan IA, dokumen apa yg prlu diunggah sebagai gantinya",singkatan,FAQ018
+Q0345,"misi, apabila pihak perusahaan tdk bersedia menandatangani SPK dan IA, dokumen apa yg prlu diunggah sebagai gantinya",singkatan,FAQ018
+Q0346,"apabila pihak perusahaan gak bersedia menandatangani SPK dan IA, dokumen apa yang perlu diunggah sebagai gantinya",informal,FAQ018
+Q0347,"kak, apabila pihak perusahaan gak bersedia menandatangani SPK dan IA, dokumen apa yang perlu diunggah sebagai gantinya",informal,FAQ018
+Q0348,"ibu, apabila pihak perusahaan gak bersedia menandatangani SPK dan IA, dokumen apa yang perlu diunggah sebagai gantinya",informal,FAQ018
+Q0349,"apaila pihak perusahaan tiak bersedia menandatangani SPK dan IA, dokmen apa yang perlu diunggah sebgai gantinya",typo,FAQ018
+Q0350,"apabila pihka perusahaan tidak berseida menandatangani SPK dan IA, dokumen apa yang perul diunggah sebagai gantiyna",typo,FAQ018
+Q0351,"apabila pihak perusahan tidak bersedia menandatagani SPK dan IA, dokumen apa yang perlu diunggh sebagai gantinya",typo,FAQ018
+Q0352,"paabila pihak perusahaan tdiak bersedia menandatangani SPK dan IA, odkumen apa yang perlu diunggah esbagai gantinya",typo,FAQ018
+Q0353,"Mohon info, apabila pihak perusahaan tidak bersedia menandatangani SPK dan IA, dokumen apa yang perlu diunggah sebagai gantinya",parafrase,FAQ018
+Q0354,"Izin bertanya, apabila pihak perusahaan tidak bersedia menandatangani SPK dan IA, dokumen apa yang perlu diunggah sebagai gantinya",parafrase,FAQ018
+Q0355,"Mohon dijelaskan, apabila pihak perusahaan tidak bersedia menandatangani SPK dan IA, dokumen apa yang perlu diunggah sebagai gantinya",formal,FAQ018
+Q0356,"tanggal pelaksanaan PI yg tertera di surat MySams keliru, gmn cra merevisinya",singkatan,FAQ019
+Q0357,"mhn info, tanggal pelaksanaan PI yg tertera di surat MySams keliru, gmn cra merevisinya",singkatan,FAQ019
+Q0358,"misi, tanggal pelaksanaan PI yg tertera di surat MySams keliru, gmn cra merevisinya",singkatan,FAQ019
+Q0359,"tanggal pelaksanaan PI yang tertera di surat MySams keliru, gimana cara merevisinya",informal,FAQ019
+Q0360,"kak, tanggal pelaksanaan PI yang tertera di surat MySams keliru, gimana cara merevisinya",informal,FAQ019
+Q0361,"ibu, tanggal pelaksanaan PI yang tertera di surat MySams keliru, gimana cara merevisinya",informal,FAQ019
+Q0362,"tangal pelaksanaan PI yang tertera di suat MySams keliru, bagamana cara merevisinya",typo,FAQ019
+Q0363,"tanggal pelaksnaaan PI yang tertera di surat MySasm keliru, bagaimana cara mereviisnya",typo,FAQ019
+Q0364,"tanggal pelaksanaan PI yang tertea di surat MySams eliru, bagaimana cara merevisinya",typo,FAQ019
+Q0365,"tanggal pelaksanaan PI yang tertera di surat MySams keliru, lewat mana caranya merevisinya",parafrase,FAQ019
+Q0366,"Mohon info, tanggal pelaksanaan PI yang tertera di surat MySams keliru, lewat mana caranya merevisinya",parafrase,FAQ019
+Q0367,"Izin bertanya, tanggal pelaksanaan PI yang tertera di surat MySams keliru, lewat mana caranya merevisinya",parafrase,FAQ019
+Q0368,"Kalau boleh tahu, tanggal pelaksanaan PI yang tertera di surat MySams keliru, lewat mana caranya merevisinya",parafrase,FAQ019
+Q0369,"tanggal pelaksanaan PI yang tertera di surat MySams keliru, bagaimana prosedur merevisinya",formal,FAQ019
+Q0370,"nama Kaprodi di dokumen IA masih menggunakan nama lama padahal sdh ada pergantian, apa prlu disesuaikan",singkatan,FAQ020
+Q0371,"mhn info, nama Kaprodi di dokumen IA masih menggunakan nama lama padahal sdh ada pergantian, apa prlu disesuaikan",singkatan,FAQ020
+Q0372,"misi, nama Kaprodi di dokumen IA masih menggunakan nama lama padahal sdh ada pergantian, apa prlu disesuaikan",singkatan,FAQ020
+Q0373,"nama Kaprodi di dokumen IA masih menggunakan nama lama padahal udah ada pergantian, apa perlu disesuaikan",informal,FAQ020
+Q0374,"kak, nama Kaprodi di dokumen IA masih menggunakan nama lama padahal udah ada pergantian, apa perlu disesuaikan",informal,FAQ020
+Q0375,"ibu, nama Kaprodi di dokumen IA masih menggunakan nama lama padahal udah ada pergantian, apa perlu disesuaikan",informal,FAQ020
+Q0376,"mau tanya, nama Kaprodi di dokumen IA masih menggunakan nama lama padahal udah ada pergantian, apa perlu disesuaikan",informal,FAQ020
+Q0377,"nama Kapodi di dokumen IA masih menggnakan nama lama padahal sudah ada pergatian, apakah perlu disesaikan",typo,FAQ020
+Q0378,"nama Kaprodi di dokuemn IA masih menggunakan nama lama padaahl sudah ada pergantian, apakha perlu disesuaikan",typo,FAQ020
+Q0379,"nama Kaprodi di dokumen IA asih menggunakan nama lama padahal udah ada pergantian, apakah erlu disesuaikan",typo,FAQ020
+Q0380,"nama aKprodi di dokumen IA masih menggunaakn nama lama padahal sudah ada pergantina, apakah perlu disesuaiakn",typo,FAQ020
+Q0381,"Mohon info, nama Kaprodi di dokumen IA masih menggunakan nama lama padahal sudah ada pergantian, apakah perlu disesuaikan",parafrase,FAQ020
+Q0382,"Izin bertanya, nama Kaprodi di dokumen IA masih menggunakan nama lama padahal sudah ada pergantian, apakah perlu disesuaikan",parafrase,FAQ020
+Q0383,"nama Kaprodi di dokumen IA masih menggunakan nama lama padahal sudah ada pergantian, apa benar perlu disesuaikan",formal,FAQ020
+Q0384,nomor surat SPK dan IA didapatkan dr mn,singkatan,FAQ021
+Q0385,"mhn info, nomor surat SPK dan IA didapatkan dr mn",singkatan,FAQ021
+Q0386,"misi, nomor surat SPK dan IA didapatkan dr mn",singkatan,FAQ021
+Q0387,"kak, nomor surat SPK dan IA didapatkan dari mana",informal,FAQ021
+Q0388,"ibu, nomor surat SPK dan IA didapatkan dari mana",informal,FAQ021
+Q0389,"mau tanya, nomor surat SPK dan IA didapatkan dari mana",informal,FAQ021
+Q0390,noor surat SPK dan IA didapatkan dari mana,typo,FAQ021
+Q0391,nomor surta SPK dan IA didapatkan dari mana,typo,FAQ021
+Q0392,nomor surat SPK dan IA didapatan dari mana,typo,FAQ021
+Q0393,nmoor surat SPK dan IA didapatkan dari mana,typo,FAQ021
+Q0394,"Mohon info, nomor surat SPK dan IA didapatkan dari mana",parafrase,FAQ021
+Q0395,"Izin bertanya, nomor surat SPK dan IA didapatkan dari mana",parafrase,FAQ021
+Q0396,"Kalau boleh tahu, nomor surat SPK dan IA didapatkan dari mana",parafrase,FAQ021
+Q0397,"Mohon dijelaskan, nomor surat SPK dan IA didapatkan dari mana",formal,FAQ021
+Q0398,"jika industri tdk meminta surat penarikan, apa kami ttp wajib membuat surat tersebut",singkatan,FAQ022
+Q0399,"mhn info, jika industri tdk meminta surat penarikan, apa kami ttp wajib membuat surat tersebut",singkatan,FAQ022
+Q0400,"misi, jika industri tdk meminta surat penarikan, apa kami ttp wajib membuat surat tersebut",singkatan,FAQ022
+Q0401,"jika industri gak meminta surat penarikan, apa kami tetap wajib membuat surat itu",informal,FAQ022
+Q0402,"kak, jika industri gak meminta surat penarikan, apa kami tetap wajib membuat surat itu",informal,FAQ022
+Q0403,"ibu, jika industri gak meminta surat penarikan, apa kami tetap wajib membuat surat itu",informal,FAQ022
+Q0404,"jika indutri tidak meminta suat penarikan, apakah kami teap wajib membuat suat tersebut",typo,FAQ022
+Q0405,"jika industri tidka meminta surat penarkian, apakah kami tetap wajbi membuat surat terseubt",typo,FAQ022
+Q0406,"jika industri tidak memina surat penarikan, pakah kami tetap wajib membut surat tersebut",typo,FAQ022
+Q0407,"jika nidustri tidak meminta sruat penarikan, apakah kami tteap wajib membuat sruat tersebut",typo,FAQ022
+Q0408,"Mohon info, jika industri tidak meminta surat penarikan, apakah kami tetap wajib membuat surat tersebut",parafrase,FAQ022
+Q0409,"Izin bertanya, jika industri tidak meminta surat penarikan, apakah kami tetap wajib membuat surat tersebut",parafrase,FAQ022
+Q0410,"Kalau boleh tahu, jika industri tidak meminta surat penarikan, apakah kami tetap wajib membuat surat tersebut",parafrase,FAQ022
+Q0411,"jika industri tidak meminta surat penarikan, apa benar kami tetap wajib membuat surat tersebut",formal,FAQ022
+Q0412,surat penarikan yg dikirim ke MySams itu masuk ke pilihan layanan apa,singkatan,FAQ023
+Q0413,"mhn info, surat penarikan yg dikirim ke MySams itu masuk ke pilihan layanan apa",singkatan,FAQ023
+Q0414,"misi, surat penarikan yg dikirim ke MySams itu masuk ke pilihan layanan apa",singkatan,FAQ023
+Q0415,"kak, surat penarikan yang dikirim ke MySams itu masuk ke pilihan layanan apa",informal,FAQ023
+Q0416,"ibu, surat penarikan yang dikirim ke MySams itu masuk ke pilihan layanan apa",informal,FAQ023
+Q0417,"mau tanya, surat penarikan yang dikirim ke MySams itu masuk ke pilihan layanan apa",informal,FAQ023
+Q0418,suat penarikan yang dikirim ke MySms itu masuk ke pilihan laynan apa,typo,FAQ023
+Q0419,surat penarkian yang dikirim ke MySams itu masku ke pilihan layanan apa,typo,FAQ023
+Q0420,surat penarikan yang dikirm ke MySams itu masuk ke pilihn layanan apa,typo,FAQ023
+Q0421,sruat penarikan yang dikirim ke MSyams itu masuk ke pilihan alyanan apa,typo,FAQ023
+Q0422,"Mohon info, surat penarikan yang dikirim ke MySams itu masuk ke pilihan layanan apa",parafrase,FAQ023
+Q0423,"Izin bertanya, surat penarikan yang dikirim ke MySams itu masuk ke pilihan layanan apa",parafrase,FAQ023
+Q0424,"Kalau boleh tahu, surat penarikan yang dikirim ke MySams itu masuk ke pilihan layanan apa",parafrase,FAQ023
+Q0425,"Mohon dijelaskan, surat penarikan yang dikirim ke MySams itu masuk ke pilihan layanan apa",formal,FAQ023
+Q0426,gmn cra mengisi logbook kegiatan harian selama pelaksanaan PI,singkatan,FAQ024
+Q0427,"mhn info, gmn cra mengisi logbook kegiatan harian selama pelaksanaan PI",singkatan,FAQ024
+Q0428,"misi, gmn cra mengisi logbook kegiatan harian selama pelaksanaan PI",singkatan,FAQ024
+Q0429,gimana cara mengisi logbook kegiatan harian selama pelaksanaan PI,informal,FAQ024
+Q0430,"kak, gimana cara mengisi logbook kegiatan harian selama pelaksanaan PI",informal,FAQ024
+Q0431,"ibu, gimana cara mengisi logbook kegiatan harian selama pelaksanaan PI",informal,FAQ024
+Q0432,bagamana cara mengisi logbook kegitan harian selama pelakanaan PI,typo,FAQ024
+Q0433,bagaimana cara mengsii logbook kegiatan harina selama pelaksanaan PI,typo,FAQ024
+Q0434,bagaimana cara mengisi logbok kegiatan harian elama pelaksanaan PI,typo,FAQ024
+Q0435,Seperti apa langkah mengisi logbook kegiatan harian selama pelaksanaan PI,parafrase,FAQ024
+Q0436,"Mohon info, seperti apa langkah mengisi logbook kegiatan harian selama pelaksanaan PI",parafrase,FAQ024
+Q0437,"Izin bertanya, seperti apa langkah mengisi logbook kegiatan harian selama pelaksanaan PI",parafrase,FAQ024
+Q0438,"Kalau boleh tahu, seperti apa langkah mengisi logbook kegiatan harian selama pelaksanaan PI",parafrase,FAQ024
+Q0439,bagaimana prosedur mengisi logbook kegiatan harian selama pelaksanaan PI,formal,FAQ024
+Q0440,"dospem tdk bs hadir utk penarikan, gmn solusinya apa bs diwakilkan dosen lain",singkatan,FAQ025
+Q0441,"mhn info, dospem tdk bs hadir utk penarikan, gmn solusinya apa bs diwakilkan dosen lain",singkatan,FAQ025
+Q0442,"misi, dospem tdk bs hadir utk penarikan, gmn solusinya apa bs diwakilkan dosen lain",singkatan,FAQ025
+Q0443,"dosen pembimbing gak bisa hadir untuk penarikan, gimana solusinya apa bisa diwakilkan dosen lain",informal,FAQ025
+Q0444,"kak, dosen pembimbing gak bisa hadir untuk penarikan, gimana solusinya apa bisa diwakilkan dosen lain",informal,FAQ025
+Q0445,"ibu, dosen pembimbing gak bisa hadir untuk penarikan, gimana solusinya apa bisa diwakilkan dosen lain",informal,FAQ025
+Q0446,"mau tanya, dosen pembimbing gak bisa hadir untuk penarikan, gimana solusinya apa bisa diwakilkan dosen lain",informal,FAQ025
+Q0447,"doen pembimbing tidak bisa hair untuk penarikan, bagamana solusinya apakah bisa diwaklkan dosen lain",typo,FAQ025
+Q0448,"dosen pembimibng tidak bisa hadir untku penarikan, bagaimana solusniya apakah bisa diwakilkan dosne lain",typo,FAQ025
+Q0449,"dosen pembimbing idak bisa hadir untuk penarian, bagaimana solusinya pakah bisa diwakilkan dosen lain",typo,FAQ025
+Q0450,"dsoen pembimbing tidak bisa hdair untuk penarikan, bagaimaan solusinya apakah bisa diwakilkna dosen lain",typo,FAQ025
+Q0451,"Mohon info, dosen pembimbing tidak bisa hadir untuk penarikan, bagaimana solusinya apakah bisa diwakilkan dosen lain",parafrase,FAQ025
+Q0452,"Izin bertanya, dosen pembimbing tidak bisa hadir untuk penarikan, bagaimana solusinya apakah bisa diwakilkan dosen lain",parafrase,FAQ025
+Q0453,"dosen pembimbing tidak bisa hadir untuk penarikan, bagaimana solusinya apa benar bisa diwakilkan dosen lain",formal,FAQ025
+Q0454,"dospem saya sdh memegang banyak klp bimbingan, gmn cra mencari pembimbing pengganti",singkatan,FAQ026
+Q0455,"mhn info, dospem saya sdh memegang banyak klp bimbingan, gmn cra mencari pembimbing pengganti",singkatan,FAQ026
+Q0456,"misi, dospem saya sdh memegang banyak klp bimbingan, gmn cra mencari pembimbing pengganti",singkatan,FAQ026
+Q0457,"dosen pembimbing aku udah memegang banyak kelompok bimbingan, gimana cara mencari pembimbing pengganti",informal,FAQ026
+Q0458,"kak, dosen pembimbing aku udah memegang banyak kelompok bimbingan, gimana cara mencari pembimbing pengganti",informal,FAQ026
+Q0459,"ibu, dosen pembimbing aku udah memegang banyak kelompok bimbingan, gimana cara mencari pembimbing pengganti",informal,FAQ026
+Q0460,"mau tanya, dosen pembimbing aku udah memegang banyak kelompok bimbingan, gimana cara mencari pembimbing pengganti",informal,FAQ026
+Q0461,"doen pembimbing saya sudah memeang banyak kelompok bimbngan, bagaimana cara mencari pembibing pengganti",typo,FAQ026
+Q0462,"dosen pembimibng saya sudah memegang banyka kelompok bimbingan, bagaiamna cara mencari pembimbing penggnati",typo,FAQ026
+Q0463,"dosen pembimbing saya udah memegang banyak kelompk bimbingan, bagaimana cara mencai pembimbing pengganti",typo,FAQ026
+Q0464,"dsoen pembimbing saya sudah emmegang banyak kelompok bimbingna, bagaimana cara mencari pembimbign pengganti",typo,FAQ026
+Q0465,"dosen pembimbing saya sudah memegang banyak kelompok bimbingan, lewat mana caranya mencari pembimbing pengganti",parafrase,FAQ026
+Q0466,"Mohon info, dosen pembimbing saya sudah memegang banyak kelompok bimbingan, lewat mana caranya mencari pembimbing pengganti",parafrase,FAQ026
+Q0467,"Izin bertanya, dosen pembimbing saya sudah memegang banyak kelompok bimbingan, lewat mana caranya mencari pembimbing pengganti",parafrase,FAQ026
+Q0468,"dosen pembimbing saya sudah memegang banyak kelompok bimbingan, bagaimana prosedur mencari pembimbing pengganti",formal,FAQ026
+Q0469,gmn cra melakukan pengajuan Selesai PI di SiPi,singkatan,FAQ027
+Q0470,"mhn info, gmn cra melakukan pengajuan Selesai PI di SiPi",singkatan,FAQ027
+Q0471,"misi, gmn cra melakukan pengajuan Selesai PI di SiPi",singkatan,FAQ027
+Q0472,gimana cara melakukan pengajuan Selesai PI di SiPi,informal,FAQ027
+Q0473,"kak, gimana cara melakukan pengajuan Selesai PI di SiPi",informal,FAQ027
+Q0474,"ibu, gimana cara melakukan pengajuan Selesai PI di SiPi",informal,FAQ027
+Q0475,bagamana cara melakukan pengajuan Selsai PI di SiPi,typo,FAQ027
+Q0476,bagaimana cara melakkuan pengajuan Selesai PI di SiPi,typo,FAQ027
+Q0477,bagaimana cara melakukan pengajan Selesai PI di SiPi,typo,FAQ027
+Q0478,bagaimaan cara melakukan pengajuan eSlesai PI di SiPi,typo,FAQ027
+Q0479,Seperti apa langkah melakukan pengajuan Selesai PI di SiPi,parafrase,FAQ027
+Q0480,"Mohon info, seperti apa langkah melakukan pengajuan Selesai PI di SiPi",parafrase,FAQ027
+Q0481,"Izin bertanya, seperti apa langkah melakukan pengajuan Selesai PI di SiPi",parafrase,FAQ027
+Q0482,bagaimana prosedur melakukan pengajuan Selesai PI di SiPi,formal,FAQ027
+Q0483,brp lama batas waktu pelaksanaan seminar PI stlh hari penarikan,singkatan,FAQ028
+Q0484,"mhn info, brp lama batas waktu pelaksanaan seminar PI stlh hari penarikan",singkatan,FAQ028
+Q0485,"misi, brp lama batas waktu pelaksanaan seminar PI stlh hari penarikan",singkatan,FAQ028
+Q0486,"kak, berapa lama batas waktu pelaksanaan seminar PI setelah hari penarikan",informal,FAQ028
+Q0487,"ibu, berapa lama batas waktu pelaksanaan seminar PI setelah hari penarikan",informal,FAQ028
+Q0488,"mau tanya, berapa lama batas waktu pelaksanaan seminar PI setelah hari penarikan",informal,FAQ028
+Q0489,berpa lama batas waktu pelakanaan seminar PI setelah hari penaikan,typo,FAQ028
+Q0490,berapa lama batsa waktu pelaksanaan semianr PI setelah hari penarikan,typo,FAQ028
+Q0491,berapa lama batas aktu pelaksanaan seminar PI setelh hari penarikan,typo,FAQ028
+Q0492,breapa lama batas waktu pelaksanaan seminar PI setelah hari penarikna,typo,FAQ028
+Q0493,Kira-kira berapa lama batas waktu pelaksanaan seminar PI setelah hari penarikan,parafrase,FAQ028
+Q0494,"Mohon info, kira-kira berapa lama batas waktu pelaksanaan seminar PI setelah hari penarikan",parafrase,FAQ028
+Q0495,"Izin bertanya, kira-kira berapa lama batas waktu pelaksanaan seminar PI setelah hari penarikan",parafrase,FAQ028
+Q0496,"Mohon dijelaskan, berapa lama batas waktu pelaksanaan seminar PI setelah hari penarikan",formal,FAQ028
+Q0497,dokumen apa saja yg prlu disiapkan sblm pelaksanaan seminar PI,singkatan,FAQ029
+Q0498,"mhn info, dokumen apa saja yg prlu disiapkan sblm pelaksanaan seminar PI",singkatan,FAQ029
+Q0499,"misi, dokumen apa saja yg prlu disiapkan sblm pelaksanaan seminar PI",singkatan,FAQ029
+Q0500,"kak, dokumen apa saja yang perlu disiapkan sebelum pelaksanaan seminar PI",informal,FAQ029
+Q0501,"ibu, dokumen apa saja yang perlu disiapkan sebelum pelaksanaan seminar PI",informal,FAQ029
+Q0502,"mau tanya, dokumen apa saja yang perlu disiapkan sebelum pelaksanaan seminar PI",informal,FAQ029
+Q0503,dokmen apa saja yang perlu disiapkan seblum pelaksanaan seminar PI,typo,FAQ029
+Q0504,dokumen apa saja yang perul disiapkan sebelum pelaksnaaan seminar PI,typo,FAQ029
+Q0505,dokumen apa saja yang perlu disiapan sebelum pelaksanaan seminr PI,typo,FAQ029
+Q0506,odkumen apa saja yang perlu disiapkan esbelum pelaksanaan seminar PI,typo,FAQ029
+Q0507,"Mohon info, dokumen apa saja yang perlu disiapkan sebelum pelaksanaan seminar PI",parafrase,FAQ029
+Q0508,"Izin bertanya, dokumen apa saja yang perlu disiapkan sebelum pelaksanaan seminar PI",parafrase,FAQ029
+Q0509,"Kalau boleh tahu, dokumen apa saja yang perlu disiapkan sebelum pelaksanaan seminar PI",parafrase,FAQ029
+Q0510,"Mohon dijelaskan, dokumen apa saja yang perlu disiapkan sebelum pelaksanaan seminar PI",formal,FAQ029
+Q0511,pendaftaran seminar PI di MySams dilakukan perwakilan klp atau per individu,singkatan,FAQ030
+Q0512,"mhn info, pendaftaran seminar PI di MySams dilakukan perwakilan klp atau per individu",singkatan,FAQ030
+Q0513,"misi, pendaftaran seminar PI di MySams dilakukan perwakilan klp atau per individu",singkatan,FAQ030
+Q0514,"kak, pendaftaran seminar PI di MySams dilakukan perwakilan kelompok atau per individu",informal,FAQ030
+Q0515,"ibu, pendaftaran seminar PI di MySams dilakukan perwakilan kelompok atau per individu",informal,FAQ030
+Q0516,"mau tanya, pendaftaran seminar PI di MySams dilakukan perwakilan kelompok atau per individu",informal,FAQ030
+Q0517,pendataran seminar PI di MySams dilaukan perwakilan kelompok atau per indiidu,typo,FAQ030
+Q0518,pendaftaran semianr PI di MySams dilakukan perwaklian kelompok atau per individu,typo,FAQ030
+Q0519,pendaftaran seminar PI di ySams dilakukan perwakilan kelompk atau per individu,typo,FAQ030
+Q0520,pendaftaarn seminar PI di MySams dilakukna perwakilan kelompok atau per nidividu,typo,FAQ030
+Q0521,"Mohon info, pendaftaran seminar PI di MySams dilakukan perwakilan kelompok atau per individu",parafrase,FAQ030
+Q0522,"Izin bertanya, pendaftaran seminar PI di MySams dilakukan perwakilan kelompok atau per individu",parafrase,FAQ030
+Q0523,"Kalau boleh tahu, pendaftaran seminar PI di MySams dilakukan perwakilan kelompok atau per individu",parafrase,FAQ030
+Q0524,"Mohon dijelaskan, pendaftaran seminar PI di MySams dilakukan perwakilan kelompok atau per individu",formal,FAQ030
+Q0525,"format Lembar Pengesahan Seminar pada BAB IV panduan berbeda dgn contoh di Lampiran 3, format mn yg diikuti",singkatan,FAQ031
+Q0526,"mhn info, format Lembar Pengesahan Seminar pada BAB IV panduan berbeda dgn contoh di Lampiran 3, format mn yg diikuti",singkatan,FAQ031
+Q0527,"misi, format Lembar Pengesahan Seminar pada BAB IV panduan berbeda dgn contoh di Lampiran 3, format mn yg diikuti",singkatan,FAQ031
+Q0528,"format Lembar Pengesahan Seminar pada BAB IV panduan berbeda sama contoh di Lampiran 3, format mana yang diikuti",informal,FAQ031
+Q0529,"kak, format Lembar Pengesahan Seminar pada BAB IV panduan berbeda sama contoh di Lampiran 3, format mana yang diikuti",informal,FAQ031
+Q0530,"ibu, format Lembar Pengesahan Seminar pada BAB IV panduan berbeda sama contoh di Lampiran 3, format mana yang diikuti",informal,FAQ031
+Q0531,"mau tanya, format Lembar Pengesahan Seminar pada BAB IV panduan berbeda sama contoh di Lampiran 3, format mana yang diikuti",informal,FAQ031
+Q0532,"forat Lembar Pengesahan Semnar pada BAB IV panduan berbeda denan contoh di Lampiran 3, forat mana yang diikuti",typo,FAQ031
+Q0533,"format Lembra Pengesahan Seminar pada BAB IV pandaun berbeda dengan contho di Lampiran 3, format mana yang diiktui",typo,FAQ031
+Q0534,"format Lembar Pengesaan Seminar pada BAB IV panduan berbea dengan contoh di Lampirn 3, format mana yang diikuti",typo,FAQ031
+Q0535,"fromat Lembar Pengesahan eSminar pada BAB IV panduan berbeda dnegan contoh di Lampiran 3, fromat mana yang diikuti",typo,FAQ031
+Q0536,"Mohon info, format Lembar Pengesahan Seminar pada BAB IV panduan berbeda dengan contoh di Lampiran 3, format mana yang diikuti",parafrase,FAQ031
+Q0537,"Izin bertanya, format Lembar Pengesahan Seminar pada BAB IV panduan berbeda dengan contoh di Lampiran 3, format mana yang diikuti",parafrase,FAQ031
+Q0538,"Kalau boleh tahu, format Lembar Pengesahan Seminar pada BAB IV panduan berbeda dengan contoh di Lampiran 3, format mana yang diikuti",parafrase,FAQ031
+Q0539,"Mohon dijelaskan, format Lembar Pengesahan Seminar pada BAB IV panduan berbeda dengan contoh di Lampiran 3, format mana yang diikuti",formal,FAQ031
+Q0540,"mhn info, kapan lembar pengesahan pada laporan PI seharusnya ditandatangani",singkatan,FAQ032
+Q0541,"misi, kapan lembar pengesahan pada laporan PI seharusnya ditandatangani",singkatan,FAQ032
+Q0542,"kak, kapan lembar pengesahan pada laporan PI seharusnya ditandatangani",informal,FAQ032
+Q0543,"ibu, kapan lembar pengesahan pada laporan PI seharusnya ditandatangani",informal,FAQ032
+Q0544,kaan lembar pengesahan pada lapran PI seharusnya ditandatangani,typo,FAQ032
+Q0545,kapan lembra pengesahan pada laporan PI seharunsya ditandatangani,typo,FAQ032
+Q0546,kapan lembar pengesaan pada laporan PI seharusnya ditandatagani,typo,FAQ032
+Q0547,kpaan lembar pengesahan pada alporan PI seharusnya ditandatangani,typo,FAQ032
+Q0548,"Mohon info, kapan lembar pengesahan pada laporan PI seharusnya ditandatangani",parafrase,FAQ032
+Q0549,"Izin bertanya, kapan lembar pengesahan pada laporan PI seharusnya ditandatangani",parafrase,FAQ032
+Q0550,"Kalau boleh tahu, kapan lembar pengesahan pada laporan PI seharusnya ditandatangani",parafrase,FAQ032
+Q0551,"Mohon dijelaskan, kapan lembar pengesahan pada laporan PI seharusnya ditandatangani",formal,FAQ032
+Q0552,dokumen apa saja yg wajib diupload stlh pelaksanaan seminar PI,singkatan,FAQ033
+Q0553,"mhn info, dokumen apa saja yg wajib diupload stlh pelaksanaan seminar PI",singkatan,FAQ033
+Q0554,"misi, dokumen apa saja yg wajib diupload stlh pelaksanaan seminar PI",singkatan,FAQ033
+Q0555,"kak, dokumen apa saja yang wajib diupload setelah pelaksanaan seminar PI",informal,FAQ033
+Q0556,"ibu, dokumen apa saja yang wajib diupload setelah pelaksanaan seminar PI",informal,FAQ033
+Q0557,"mau tanya, dokumen apa saja yang wajib diupload setelah pelaksanaan seminar PI",informal,FAQ033
+Q0558,dokmen apa saja yang wajib diupload setlah pelaksanaan seminar PI,typo,FAQ033
+Q0559,dokumen apa saja yang wajbi diupload setelah pelaksnaaan seminar PI,typo,FAQ033
+Q0560,dokumen apa saja yang wajib diuplod setelah pelaksanaan seminr PI,typo,FAQ033
+Q0561,odkumen apa saja yang wajib diupload estelah pelaksanaan seminar PI,typo,FAQ033
+Q0562,dokumen apa saja yang harus diunggah setelah pelaksanaan seminar PI,parafrase,FAQ033
+Q0563,"Mohon info, dokumen apa saja yang harus diunggah setelah pelaksanaan seminar PI",parafrase,FAQ033
+Q0564,"Izin bertanya, dokumen apa saja yang harus diunggah setelah pelaksanaan seminar PI",parafrase,FAQ033
+Q0565,"Mohon dijelaskan, dokumen apa saja yang wajib diupload setelah pelaksanaan seminar PI",formal,FAQ033
+Q0566,nilai PI yg diupload itu nilai dr tmpt PI atau nilai sesudah seminar,singkatan,FAQ034
+Q0567,"mhn info, nilai PI yg diupload itu nilai dr tmpt PI atau nilai sesudah seminar",singkatan,FAQ034
+Q0568,"misi, nilai PI yg diupload itu nilai dr tmpt PI atau nilai sesudah seminar",singkatan,FAQ034
+Q0569,"kak, nilai PI yang diupload itu nilai dari tempat PI atau nilai sesudah seminar",informal,FAQ034
+Q0570,"ibu, nilai PI yang diupload itu nilai dari tempat PI atau nilai sesudah seminar",informal,FAQ034
+Q0571,"mau tanya, nilai PI yang diupload itu nilai dari tempat PI atau nilai sesudah seminar",informal,FAQ034
+Q0572,niai PI yang diupload itu nilai dari temat PI atau nilai sesudah semnar,typo,FAQ034
+Q0573,nilai PI yang diuplaod itu nilai dari tempat PI atau nilia sesudah seminar,typo,FAQ034
+Q0574,nilai PI yang diupload itu ilai dari tempat PI atau nilai sesudh seminar,typo,FAQ034
+Q0575,nliai PI yang diupload itu nilai dari tmepat PI atau nilai sesudah esminar,typo,FAQ034
+Q0576,"Mohon info, nilai PI yang diupload itu nilai dari tempat PI atau nilai sesudah seminar",parafrase,FAQ034
+Q0577,"Izin bertanya, nilai PI yang diupload itu nilai dari tempat PI atau nilai sesudah seminar",parafrase,FAQ034
+Q0578,"Kalau boleh tahu, nilai PI yang diupload itu nilai dari tempat PI atau nilai sesudah seminar",parafrase,FAQ034
+Q0579,"Mohon dijelaskan, nilai PI yang diupload itu nilai dari tempat PI atau nilai sesudah seminar",formal,FAQ034
+Q0580,gmn cra melakukan pengajuan Laporan dan Upload Nilai mahasiswa di SiPi,singkatan,FAQ035
+Q0581,"mhn info, gmn cra melakukan pengajuan Laporan dan Upload Nilai mahasiswa di SiPi",singkatan,FAQ035
+Q0582,"misi, gmn cra melakukan pengajuan Laporan dan Upload Nilai mahasiswa di SiPi",singkatan,FAQ035
+Q0583,gimana cara melakukan pengajuan Laporan dan Upload Nilai mahasiswa di SiPi,informal,FAQ035
+Q0584,"kak, gimana cara melakukan pengajuan Laporan dan Upload Nilai mahasiswa di SiPi",informal,FAQ035
+Q0585,"ibu, gimana cara melakukan pengajuan Laporan dan Upload Nilai mahasiswa di SiPi",informal,FAQ035
+Q0586,bagamana cara melakukan pengajuan Lapran dan Upload Nilai mahaiswa di SiPi,typo,FAQ035
+Q0587,bagaimana cara melakkuan pengajuan Laporan dan Uploda Nilai mahasiswa di SiPi,typo,FAQ035
+Q0588,bagaimana cara melakukan pengajan Laporan dan Upload ilai mahasiswa di SiPi,typo,FAQ035
+Q0589,bagaimaan cara melakukan pengajuan aLporan dan Upload Nilai mahasisaw di SiPi,typo,FAQ035
+Q0590,Seperti apa langkah melakukan pengajuan Laporan dan Upload Nilai mahasiswa di SiPi,parafrase,FAQ035
+Q0591,"Mohon info, seperti apa langkah melakukan pengajuan Laporan dan Upload Nilai mahasiswa di SiPi",parafrase,FAQ035
+Q0592,"Izin bertanya, seperti apa langkah melakukan pengajuan Laporan dan Upload Nilai mahasiswa di SiPi",parafrase,FAQ035
+Q0593,"Kalau boleh tahu, seperti apa langkah melakukan pengajuan Laporan dan Upload Nilai mahasiswa di SiPi",parafrase,FAQ035
+Q0594,bagaimana prosedur melakukan pengajuan Laporan dan Upload Nilai mahasiswa di SiPi,formal,FAQ035
+Q0595,brp batas ukuran maksimal file yg bs diupload di SiPi,singkatan,FAQ036
+Q0596,"mhn info, brp batas ukuran maksimal file yg bs diupload di SiPi",singkatan,FAQ036
+Q0597,"misi, brp batas ukuran maksimal file yg bs diupload di SiPi",singkatan,FAQ036
+Q0598,"kak, berapa batas ukuran maksimal file yang bisa diupload di SiPi",informal,FAQ036
+Q0599,"ibu, berapa batas ukuran maksimal file yang bisa diupload di SiPi",informal,FAQ036
+Q0600,"mau tanya, berapa batas ukuran maksimal file yang bisa diupload di SiPi",informal,FAQ036
+Q0601,berpa batas ukuran maksmal file yang bisa diupload di SiPi,typo,FAQ036
+Q0602,berapa batsa ukuran maksimal file yang bisa diuplaod di SiPi,typo,FAQ036
+Q0603,berapa batas kuran maksimal file yang bisa diupload di SiPi,typo,FAQ036
+Q0604,breapa batas ukuran amksimal file yang bisa diupload di SiPi,typo,FAQ036
+Q0605,Kira-kira berapa batas ukuran maksimal file yang bisa diupload di SiPi,parafrase,FAQ036
+Q0606,"Mohon info, kira-kira berapa batas ukuran maksimal file yang bisa diupload di SiPi",parafrase,FAQ036
+Q0607,"Izin bertanya, kira-kira berapa batas ukuran maksimal file yang bisa diupload di SiPi",parafrase,FAQ036
+Q0608,"Kalau boleh tahu, kira-kira berapa batas ukuran maksimal file yang bisa diupload di SiPi",parafrase,FAQ036
+Q0609,"Mohon dijelaskan, berapa batas ukuran maksimal file yang bisa diupload di SiPi",formal,FAQ036
+Q0610,"status laporan PI saya sdh lama diupload tapi blm diverifikasi, apa prlu tindakan atau cukup menunggu",singkatan,FAQ037
+Q0611,"mhn info, status laporan PI saya sdh lama diupload tapi blm diverifikasi, apa prlu tindakan atau cukup menunggu",singkatan,FAQ037
+Q0612,"misi, status laporan PI saya sdh lama diupload tapi blm diverifikasi, apa prlu tindakan atau cukup menunggu",singkatan,FAQ037
+Q0613,"status laporan PI aku udah lama diupload tapi belum diverifikasi, apa perlu tindakan atau cukup menunggu",informal,FAQ037
+Q0614,"kak, status laporan PI aku udah lama diupload tapi belum diverifikasi, apa perlu tindakan atau cukup menunggu",informal,FAQ037
+Q0615,"ibu, status laporan PI aku udah lama diupload tapi belum diverifikasi, apa perlu tindakan atau cukup menunggu",informal,FAQ037
+Q0616,"mau tanya, status laporan PI aku udah lama diupload tapi belum diverifikasi, apa perlu tindakan atau cukup menunggu",informal,FAQ037
+Q0617,"staus laporan PI saya sudah lama diupoad tapi belum diverifikasi, apaah perlu tindakan atau cuup menunggu",typo,FAQ037
+Q0618,"status lapoarn PI saya sudah lama diupload tapi belmu diverifikasi, apakah perul tindakan atau cukup menunggu",typo,FAQ037
+Q0619,"status laporan PI saya udah lama diupload tapi belum diverifiasi, apakah perlu tindakn atau cukup menunggu",typo,FAQ037
+Q0620,"sattus laporan PI saya sudah lama idupload tapi belum diverifikasi, aapkah perlu tindakan atau ckuup menunggu",typo,FAQ037
+Q0621,"Mohon info, status laporan PI saya sudah lama diupload tapi belum diverifikasi, apakah perlu tindakan atau cukup menunggu",parafrase,FAQ037
+Q0622,"Izin bertanya, status laporan PI saya sudah lama diupload tapi belum diverifikasi, apakah perlu tindakan atau cukup menunggu",parafrase,FAQ037
+Q0623,"status laporan PI saya sudah lama diupload tapi belum diverifikasi, apa benar perlu tindakan atau cukup menunggu",formal,FAQ037
+Q0624,upload dokumen bukti selesai PI dan laporan dilakukan per individu atau cukup perwakilan klp,singkatan,FAQ038
+Q0625,"mhn info, upload dokumen bukti selesai PI dan laporan dilakukan per individu atau cukup perwakilan klp",singkatan,FAQ038
+Q0626,"misi, upload dokumen bukti selesai PI dan laporan dilakukan per individu atau cukup perwakilan klp",singkatan,FAQ038
+Q0627,"kak, upload dokumen bukti selesai PI dan laporan dilakukan per individu atau cukup perwakilan kelompok",informal,FAQ038
+Q0628,"ibu, upload dokumen bukti selesai PI dan laporan dilakukan per individu atau cukup perwakilan kelompok",informal,FAQ038
+Q0629,"mau tanya, upload dokumen bukti selesai PI dan laporan dilakukan per individu atau cukup perwakilan kelompok",informal,FAQ038
+Q0630,uplad dokumen bukti selsai PI dan laporan dilakukan per indiidu atau cukup perwakilan kelopok,typo,FAQ038
+Q0631,upload dokuemn bukti selesai PI dan lapoarn dilakukan per individu atau cukpu perwakilan kelompok,typo,FAQ038
+Q0632,upload dokumen ukti selesai PI dan laporan dilakuan per individu atau cukup perwakian kelompok,typo,FAQ038
+Q0633,ulpoad dokumen bukti eslesai PI dan laporan dilakukan per nidividu atau cukup perwakilan eklompok,typo,FAQ038
+Q0634,"Mohon info, upload dokumen bukti selesai PI dan laporan dilakukan per individu atau cukup perwakilan kelompok",parafrase,FAQ038
+Q0635,"Izin bertanya, upload dokumen bukti selesai PI dan laporan dilakukan per individu atau cukup perwakilan kelompok",parafrase,FAQ038
+Q0636,"Kalau boleh tahu, upload dokumen bukti selesai PI dan laporan dilakukan per individu atau cukup perwakilan kelompok",parafrase,FAQ038
+Q0637,"Mohon dijelaskan, upload dokumen bukti selesai PI dan laporan dilakukan per individu atau cukup perwakilan kelompok",formal,FAQ038
+Q0638,"jika mahasiswa menghasilkan karya atau produk selama PI yg berpotensi didaftarkan HKI, apa yg prlu dilakukan",singkatan,FAQ039
+Q0639,"mhn info, jika mahasiswa menghasilkan karya atau produk selama PI yg berpotensi didaftarkan HKI, apa yg prlu dilakukan",singkatan,FAQ039
+Q0640,"misi, jika mahasiswa menghasilkan karya atau produk selama PI yg berpotensi didaftarkan HKI, apa yg prlu dilakukan",singkatan,FAQ039
+Q0641,"kak, jika mahasiswa menghasilkan karya atau produk selama PI yang berpotensi didaftarkan HKI, apa yang perlu dilakukan",informal,FAQ039
+Q0642,"ibu, jika mahasiswa menghasilkan karya atau produk selama PI yang berpotensi didaftarkan HKI, apa yang perlu dilakukan",informal,FAQ039
+Q0643,"jika mahaiswa menghasilkan karya atau prouk selama PI yang berpotensi didafarkan HKI, apa yang perlu dilakukan",typo,FAQ039
+Q0644,"jika mahasiswa menghaslikan karya atau produk selaam PI yang berpotensi didaftarkan HKI, apa yang perul dilakukan",typo,FAQ039
+Q0645,"jika mahasiswa menghasilkan arya atau produk selama PI yang berpotesi didaftarkan HKI, apa yang perlu dilakuan",typo,FAQ039
+Q0646,"jika mahasisaw menghasilkan karya atau porduk selama PI yang berpotensi didaftarakn HKI, apa yang perlu dilakukan",typo,FAQ039
+Q0647,"Mohon info, jika mahasiswa menghasilkan karya atau produk selama PI yang berpotensi didaftarkan HKI, apa yang perlu dilakukan",parafrase,FAQ039
+Q0648,"Izin bertanya, jika mahasiswa menghasilkan karya atau produk selama PI yang berpotensi didaftarkan HKI, apa yang perlu dilakukan",parafrase,FAQ039
+Q0649,"Kalau boleh tahu, jika mahasiswa menghasilkan karya atau produk selama PI yang berpotensi didaftarkan HKI, apa yang perlu dilakukan",parafrase,FAQ039
+Q0650,"Mohon dijelaskan, jika mahasiswa menghasilkan karya atau produk selama PI yang berpotensi didaftarkan HKI, apa yang perlu dilakukan",formal,FAQ039
+Q0651,apa saja tugas admin dalam verif di SiPi mulai dr pembekalan sampai nilai akhir,singkatan,FAQ040
+Q0652,"mhn info, apa saja tugas admin dalam verif di SiPi mulai dr pembekalan sampai nilai akhir",singkatan,FAQ040
+Q0653,"misi, apa saja tugas admin dalam verif di SiPi mulai dr pembekalan sampai nilai akhir",singkatan,FAQ040
+Q0654,"kak, apa saja tugas admin dalam verifikasi di SiPi mulai dari pembekalan sampai nilai akhir",informal,FAQ040
+Q0655,"ibu, apa saja tugas admin dalam verifikasi di SiPi mulai dari pembekalan sampai nilai akhir",informal,FAQ040
+Q0656,"mau tanya, apa saja tugas admin dalam verifikasi di SiPi mulai dari pembekalan sampai nilai akhir",informal,FAQ040
+Q0657,apa saja tuas admin dalam verifkasi di SiPi mulai dari pembekalan samai nilai akhir,typo,FAQ040
+Q0658,apa saja tugas admni dalam verifikasi di SiPi mulia dari pembekalan sampai nilia akhir,typo,FAQ040
+Q0659,apa saja tugas admin alam verifikasi di SiPi mulai dari pembekaan sampai nilai khir,typo,FAQ040
+Q0660,apa saja tguas admin dalam verifikais di SiPi mulai dari pembekalan smapai nilai akhir,typo,FAQ040
+Q0661,Hal apa saja yang menjadi tugas admin dalam verifikasi di SiPi mulai dari pembekalan sampai nilai akhir,parafrase,FAQ040
+Q0662,"Mohon info, hal apa saja yang menjadi tugas admin dalam verifikasi di SiPi mulai dari pembekalan sampai nilai akhir",parafrase,FAQ040
+Q0663,"Izin bertanya, hal apa saja yang menjadi tugas admin dalam verifikasi di SiPi mulai dari pembekalan sampai nilai akhir",parafrase,FAQ040
+Q0664,"Kalau boleh tahu, hal apa saja yang menjadi tugas admin dalam verifikasi di SiPi mulai dari pembekalan sampai nilai akhir",parafrase,FAQ040
+Q0665,"Mohon dijelaskan, apa saja tugas admin dalam verifikasi di SiPi mulai dari pembekalan sampai nilai akhir",formal,FAQ040
